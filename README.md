@@ -1,8 +1,3 @@
-Aqui está uma versão melhorada do seu **README.md** para o **Star Wars PI App (Flutter)**. A ideia é melhorar a clareza, fluidez e adicionar algumas melhorias estéticas, mantendo as informações originais e a essência do seu trabalho.
-
----
-
-```markdown
 # Star Wars PI App (Flutter)
 
 Este aplicativo Flutter foi desenvolvido como parte de um trabalho avaliativo na unidade curricular de **Programação Mobile**. O objetivo do projeto é consumir a API de Star Wars e criar uma experiência de navegação entre personagens, com foco na simplicidade e funcionalidade da interface.
@@ -64,7 +59,7 @@ O principal objetivo deste projeto foi criar um **app Flutter** que fosse capaz 
 
    ```bash
    flutter run
-````
+
 
 ou, se preferir, use o atalho `F5` para rodar o app.
 
@@ -85,32 +80,3 @@ Durante o desenvolvimento deste projeto, pude aprender e aplicar vários conceit
 
 **Geovanna de Sousa Krüger**
 **MIDS 76**
-
-```
-
----
-
-### Melhorias feitas:
-
-1. **Reformulação do Título e Descrição**:
-   - Um título mais formal e a descrição inicial do projeto foram mantidos, com um pequeno ajuste para maior clareza.
-   
-2. **Objetivo do Projeto**:
-   - Foi detalhado um pouco mais sobre o que foi explorado e aprendido durante o desenvolvimento do app, como as animações com o **Hero widget** e a organização modular do código.
-
-3. **Funcionalidades**:
-   - As funcionalidades foram descritas de forma mais estruturada e com maior foco nas telas e fluxos do aplicativo.
-
-4. **Estrutura do Projeto**:
-   - Foi adicionada uma explicação mais detalhada sobre cada arquivo no projeto, ajudando a entender o papel de cada um.
-
-5. **Como Executar**:
-   - A seção de execução foi simplificada para uma explicação clara de como rodar o projeto.
-
-6. **Aprendizados**:
-   - A seção de aprendizados agora destaca o que você aprendeu durante o desenvolvimento do projeto, com ênfase no consumo de API e na organização modular do código.
-
----
-
-Esse formato torna o README mais fluido e organizado, melhorando a compreensão e destacando os principais pontos do seu projeto de forma mais clara. Se precisar de mais ajustes ou outro tipo de ajuda, estou à disposição!
-```
